@@ -10,7 +10,7 @@ html{scroll-behavior:smooth}
 body{margin:0;font-family:var(--testo);font-size:16.5px;line-height:1.62;color:var(--inchiostro);background:var(--bianco);-webkit-font-smoothing:antialiased}
 img{max-width:100%;display:block}
 a{color:inherit}
-h1,h2,h3{font-family:var(--display);font-weight:500;line-height:1.08;margin:0;text-wrap:balance}
+h1,h2,h3{font-family:var(--display);font-weight:600;line-height:1.1;margin:0;text-wrap:balance;letter-spacing:-.005em}
 p{margin:0 0 1rem}
 .in{max-width:1180px;margin:0 auto;padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
 .sez{padding-block:clamp(58px,7vw,108px)}
