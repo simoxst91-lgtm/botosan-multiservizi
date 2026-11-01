@@ -269,7 +269,7 @@ body{padding-bottom:70px}
 .news-c .card-c{font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;color:var(--turchese);font-weight:500}
 .news-c h3{font-family:'Cormorant Garamond',serif;font-size:1.42rem;font-weight:600;color:var(--inchiostro);margin:8px 0 8px;line-height:1.2}
 .news-c p{margin:0;color:var(--grafite);font-size:.94rem;line-height:1.6}
-.art-foto{width:100%;max-height:440px;object-fit:cover;border-radius:16px;margin-bottom:34px}
+.art-foto{width:100%;height:auto;display:block;object-fit:contain;object-position:center;border-radius:16px;margin-bottom:34px}
 .art-torna{margin-top:30px}
 .art-torna a{color:var(--viola);text-decoration:none;font-weight:500}
 .sez-n{background:var(--nebbia)}
